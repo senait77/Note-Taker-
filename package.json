@@ -1,0 +1,31 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Your challenge is to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senait77/Note-Taker-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senait77/Note-Taker-/issues"
+  },
+  "homepage": "https://github.com/senait77/Note-Taker-#readme",
+  "dependencies": {
+    "ajax": "0.0.4",
+    "express": "^4.17.1",
+    "inquirer": "^8.0.0",
+    "uuidv4": "^6.2.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
