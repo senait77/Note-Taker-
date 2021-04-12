@@ -18,5 +18,5 @@ app.use(express.static("public"));
 // let the app listen to what ever the PORT is.
 
 app.listen(PORT, function () {
-    console.log("App is listening on port: " + PORT);
+    console.log(`App is listening on port ${PORT}!`);
 })
