@@ -9,7 +9,7 @@ var PORT = process.env.PORT || 8080;
 // here are the midleware
 app.use(express.urlencoded({ extended: true}));
 app.use(express.json());
-app.use(express.static("assets"));
+app.use(express.static("public"));
 
 // here are the routes used for the app
 require("./routes/apiRoute")(app);
