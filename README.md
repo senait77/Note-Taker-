@@ -5,11 +5,11 @@
 ## Description
 👋 These is a note taker application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file
 
-🔍![GitHub-Repo](https://github.com/senait77/Note-Taker-)
+🔍[GitHub-Repo](https://github.com/senait77/Note-Taker-)
 
-🔍![Deployed App Link](https://dashboard.heroku.com/apps/warm-headland-12546)
+🔍[Deployed App Link](https://dashboard.heroku.com/apps/warm-headland-12546)
 
-🎥![Walk-through](https://www.youtube.com/watch?v=nsIqXTmcfWA)
+🎥[Walk-through](https://www.youtube.com/watch?v=nsIqXTmcfWA)
 
 
  ## User Story
@@ -68,10 +68,10 @@ Feel free to contact me for any suggestion.
 
 ## Walk-through
 
-![Walk-through](https://www.youtube.com/watch?v=nsIqXTmcfWA)
+[Walk-through](https://www.youtube.com/watch?v=nsIqXTmcfWA)
 
 ## Questions
 Contact me: senutekie77@gmail.com
 
-![My-Github](https://github.com/senait77/Note-Taker-)
+[My-Github](https://github.com/senait77/Note-Taker-)
 
