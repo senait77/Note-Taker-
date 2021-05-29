@@ -67,7 +67,7 @@ Feel free to contact me for any suggestion.
 🎥![Note-taker](./public/images/note-taker.png)
 
 ## Walk-through
-🎥
+
 ![Walk-through](https://www.youtube.com/watch?v=nsIqXTmcfWA)
 
 ## Questions
