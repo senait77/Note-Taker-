@@ -7,7 +7,7 @@
 
 🔍[GitHub-Repo](https://github.com/senait77/Note-Taker-)
 
-🔍[Deployed App Link](https://dashboard.heroku.com/apps/warm-headland-12546)
+🔍[Deployed App Link](https://warm-headland-12546.herokuapp.com/)
 
 🎥[Walk-through](https://www.youtube.com/watch?v=nsIqXTmcfWA)
 
