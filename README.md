@@ -73,5 +73,5 @@ Feel free to contact me for any suggestion.
 ## Questions
 Contact me: senutekie77@gmail.com
 
-[My-Github](https://github.com/senait77/Note-Taker-)
+[My-Github-link](https://github.com/senait77/Note-Taker-)
 
